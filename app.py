@@ -11,8 +11,8 @@ class Emprestimo:
         self.aluno = aluno
         self.equipamento = equipamento
 
-aluno1 = Aluno("carlos")
-notebook =Equipamento("notebook Dell")
+aluno1 = Aluno("jui")
+notebook =Equipamento("notebook joi")
 
 emprestimo = Emprestimo(
     aluno1, 

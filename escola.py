@@ -11,7 +11,7 @@ class Disciplina:
         self.professor = professor
         self.turma = turma
 
-professor1 = Professor("josemeira")
+professor1 = Professor("julios")
 turma2 =Turma("2 tds")
 
 disciplina = Disciplina(
